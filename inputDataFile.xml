@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Accounts>
+    <Account name="Jani Tove">
+    <Profession>Quality Assurance Engineer</Profession>
+    <Birthdate>09/24/1984</Birthdate>
+    <Address>
+	<Street>1234 Test Street</Street>
+        <City>Testland</City>
+	<State>CA</State>
+	<Zip>99999</Zip>
+    </Address>
+    </Account>
+    <Account name="Clinton Backerman">
+    <Profession>Software Engineer</Profession>
+    <Birthdate>04/10/1987</Birthdate>
+    <Address>
+	<Street>1010 Binary Street</Street>
+        <City>Agileville</City>
+	<State>NY</State>
+	<Zip>11001</Zip>
+    </Address>
+    </Account>
+    <Account name="Ezekiel Uribe">
+    <Profession>Project Manager</Profession>
+    <Birthdate>11/17/1984</Birthdate>
+    <Address>
+	<Street>932 Powder River Street</Street>
+        <City>Dublin</City>
+	<State>CA</State>
+	<Zip>11111</Zip>
+    </Address>
+    </Account>
+    <Account name="Sarah Jones">
+    <Profession>College Recruiter</Profession>
+    <Birthdate>01/09/1972</Birthdate>
+    <Address>
+	<Street>452 Sycamore Grove</Street>
+        <City>Paradise</City>
+	<State>CA</State>
+	<Zip>22222</Zip>
+    </Address>
+    </Account>
+    <Account name="Robert Muffoletto">
+    <Profession>IT Manager</Profession>
+    <Birthdate>05/01/1978</Birthdate>
+    <Address>
+	<Street>4321 Quality Court</Street>
+        <City>Cheyenne</City>
+	<State>WY</State>
+	<Zip>54321</Zip>
+    </Address>
+    </Account>
+    <Account name="Sonny Adams">
+    <Profession>MD</Profession>
+    <Birthdate>10/26/1979</Birthdate>
+    <Address>
+	<Street>12 Validation Lane</Street>
+        <City>Newton</City>
+	<State>NY</State>
+	<Zip>78600</Zip>
+    </Address>
+    </Account>
+</Accounts>
